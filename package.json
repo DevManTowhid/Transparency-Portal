@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "firebase": "^11.0.2"
-  }
+  },
+  "name": "transparency-portal",
+  "version": "1.0.0",
+  "description": "The **Transparency Portal** is a Python-based web application designed to empower citizens, enhance transparency, and combat corruption and harassment in public administration. It serves as a platform for reporting issues, tracking complaints, and fostering trust between the government and its citizens through accountability and actionable insights.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
